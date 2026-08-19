@@ -31,7 +31,7 @@ body {
 
 h1 {
   text-align: center;
-  color: #f48771;
+  color: #71f4a1;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   font-size: 2.5em;
   margin-bottom: 10px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 canvas {
-  border: 3px solid #f48771;
+  border: 3px solid #71f4a1;
   background: #252526;
   display: block;
   box-shadow: 0 0 20px rgba(244, 135, 113, 0.3);
@@ -90,7 +90,7 @@ canvas {
 
 .pattern-name {
   text-align: center;
-  color: #f48771;
+  color: #71f4a1;
   font-weight: bold;
   margin-top: 8px;
   font-size: 0.9em;
@@ -111,7 +111,7 @@ canvas {
   left: 50%;
   transform: translate(-50%, -50%);
   background: #1e1e1e;
-  border: 3px solid #f48771;
+  border: 3px solid #71f4a1;
   padding: 40px;
   border-radius: 10px;
   text-align: center;
@@ -125,7 +125,7 @@ canvas {
 }
 
 .game-over h2 {
-  color: #f48771;
+  color: #71f4a1;
   font-size: 2.5em;
   margin-bottom: 15px;
 }
@@ -136,7 +136,7 @@ canvas {
 }
 
 .game-over button {
-  background: #f48771;
+  background: #71f4a1;
   color: #1e1e1e;
   border: none;
   padding: 15px 30px;
