@@ -64,7 +64,7 @@ canvas {
 }
 
 .info-section h3 {
-  color: #4ec9b0;
+  color: #fb0000;
   margin-bottom: 10px;
   font-size: 1.1em;
   border-bottom: 1px solid #3e3e42;
@@ -152,7 +152,7 @@ canvas {
 }
 
 .status {
-  color: #4ec9b0;
+  color: #fb0000;
   font-size: 0.9em;
   margin-top: 10px;
 }
