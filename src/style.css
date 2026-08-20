@@ -52,8 +52,8 @@ canvas {
 }
 
 .side-panel {
-  background: #252526;
-  border: 2px solid #3e3e42;
+  background: white;
+  border: 10px solid #e66d11;
   padding: 20px;
   border-radius: 8px;
   min-width: 200px;
